@@ -2,7 +2,7 @@
 
 Do you deal with tens of different tasks in a hour and end up with forgetting what you do 10 seconds ago? No prob! 
 
-![How To Use]()(https://cldup.com/c1EScHuMje.gif "With Animated GIFs")
+![How To Use](https://cldup.com/c1EScHuMje.gif "With Animated GIFs")
 
 You can write a text string to remember which will stick into your menubar - so that you can remember what you were going to do. Just install BitBar + Alfred Powerpack and start to use.
 

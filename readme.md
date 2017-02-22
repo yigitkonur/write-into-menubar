@@ -2,7 +2,7 @@
 
 Do you deal with tens of different tasks in a hour and end up with forgetting what you do 10 seconds ago? No prob! 
 
-![alt tag][1]([http://url/to/img.png][2])
+![How To Use]()(https://cldup.com/c1EScHuMje.gif "With Animated GIFs")
 
 You can write a text string to remember which will stick into your menubar - so that you can remember what you were going to do. Just install BitBar + Alfred Powerpack and start to use.
 
@@ -31,21 +31,19 @@ You need to have BitBar (completely free) and Alfred Powerpack (paid one) to use
 
 Take a look to download then:
 
- * [Alfred 3][3] to run .AlfredWorkflow
- * [BitBar][4] to show final result of .sh plugin
+ * [Alfred 3][2] to run .AlfredWorkflow
+ * [BitBar][3] to show final result of .sh plugin
 
 
-This plugin is made by [Yiğit Konur][5] for my daily routine at [Zeo][6]. If you need to get a support - please open an issue.
+This plugin is made by [Yiğit Konur][4] for my daily routine at [Zeo][5]. If you need to get a support - please open an issue.
 
 
 
 
-_Special thanks for [Jan Groß][7] to inspire me by his "Daily Quote" plugin to create my own._
+_Special thanks for [Jan Groß][6] to inspire me by his "Daily Quote" plugin to create my own._
 
-[1]:	https://cldup.com/ZI7tiDY5Yf-2000x2000.jpeg "Better way to understand how it works"
-[2]:	https://github.com/yigitkonur/write-into-menubar
-[3]:	https://www.alfredapp.com/
-[4]:	https://getbitbar.com/
-[5]:	https://github.com/yigitkonur
-[6]:	https://zeo.org
-[7]:	https://getbitbar.com/contributors/JanGross
+[2]:	https://www.alfredapp.com/
+[3]:	https://getbitbar.com/
+[4]:	https://github.com/yigitkonur
+[5]:	https://zeo.org
+[6]:	https://getbitbar.com/contributors/JanGross
